@@ -42,8 +42,6 @@ public class main {
 		
 	}
 
-	
-
 	static void getresp(InputStream in) throws Exception
 	{
 		byte []buf = new byte[1024*10];
